@@ -1,0 +1,14 @@
+@CHARSET "ISO-8859-1";
+
+.centered {
+	text-align: center;
+}
+
+.err{
+	background-color: red;
+	margin: 20px;
+}
+
+.margin{
+	margin: 20px
+}
